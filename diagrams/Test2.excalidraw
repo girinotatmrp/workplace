@@ -55,7 +55,7 @@
       "version": 22,
       "versionNonce": 660024539,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1760065028895,
       "link": null,
       "locked": false
@@ -169,8 +169,8 @@
     "searchMatches": [],
     "offsetLeft": 0,
     "offsetTop": 0,
-    "width": 1024,
-    "height": 919
+    "width": 1470,
+    "height": 831
   },
   "files": {}
 }
