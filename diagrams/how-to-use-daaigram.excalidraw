@@ -25,7 +25,7 @@
       "version": 27,
       "versionNonce": 1359322015,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1760101446236,
       "link": null,
       "locked": false
@@ -53,7 +53,7 @@
       "version": 443,
       "versionNonce": 2048242943,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1760101497503,
       "link": null,
       "locked": false,
@@ -66,11 +66,42 @@
       "originalText": "Save: \nCmd+F then G (Mac) or Ctrl+F then G (Windows)\n\nRefresh: \nCmd+F then L (Mac) or Ctrl+F then L (Windows)\n\nHow to use:\n\nPress Cmd+F (Mac) or Ctrl+F (Windows)\nRelease the keys\nWithin 2 seconds, press G to save or L to refresh",
       "autoResize": false,
       "lineHeight": 1.25
+    },
+    {
+      "id": "MK83pBoueUVyFG2NPwFFK",
+      "type": "rectangle",
+      "x": 394.19279343894357,
+      "y": 118.9243214368023,
+      "width": 944.3156764855263,
+      "height": 621.9593188365027,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 427220869,
+      "version": 162,
+      "versionNonce": 452702059,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1760101532153,
+      "link": null,
+      "locked": false
     }
   ],
   "appState": {
     "showWelcomeScreen": true,
     "theme": "light",
+    "collaborators": {},
     "currentChartType": "bar",
     "currentItemBackgroundColor": "transparent",
     "currentItemEndArrowhead": "arrow",
@@ -128,12 +159,15 @@
       "data": null
     },
     "previousSelectedElementIds": {
-      "WiU3-gtBnthEsIDFap_Ke": true
+      "MK83pBoueUVyFG2NPwFFK": true
     },
     "resizingElement": null,
     "scrolledOutside": false,
-    "scrollX": 0,
-    "scrollY": 0,
+    "scrollX": -31.545620333649282,
+    "scrollY": 173.55328635701562,
+    "selectedElementIds": {},
+    "hoveredElementIds": {},
+    "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
     "selectionElement": null,
     "shouldCacheIgnoreZoom": false,
@@ -156,7 +190,7 @@
     "viewBackgroundColor": "#ffffff",
     "zenModeEnabled": false,
     "zoom": {
-      "value": 1
+      "value": 0.785597
     },
     "viewModeEnabled": false,
     "pendingImageElementId": null,
@@ -166,12 +200,14 @@
     "originSnapOffset": null,
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
+    "followedBy": {},
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
     "offsetLeft": 0,
     "offsetTop": 0,
-    "width": 1470,
-    "height": 831
-  }
+    "width": 1101,
+    "height": 919
+  },
+  "files": {}
 }
