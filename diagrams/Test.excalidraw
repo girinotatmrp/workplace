@@ -25,7 +25,7 @@
       "version": 139,
       "versionNonce": 358043015,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1760063429694,
       "link": null,
       "locked": false
@@ -85,7 +85,7 @@
       "version": 48,
       "versionNonce": 2057437095,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1760063439130,
       "link": null,
       "locked": false
