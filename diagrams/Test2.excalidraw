@@ -1,5 +1,36 @@
 {
-  "elements": [],
+  "elements": [
+    {
+      "id": "9JVDXkgzT90xqTPWynz1I",
+      "type": "diamond",
+      "x": 261.05078125,
+      "y": 170.83203125,
+      "width": 862.921875,
+      "height": 747.328125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1813570037,
+      "version": 29,
+      "versionNonce": 879540379,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1760065004408,
+      "link": null,
+      "locked": false
+    }
+  ],
   "appState": {
     "showWelcomeScreen": true,
     "theme": "light",
@@ -65,7 +96,9 @@
     "scrolledOutside": false,
     "scrollX": 0,
     "scrollY": 0,
-    "selectedElementIds": {},
+    "selectedElementIds": {
+      "9JVDXkgzT90xqTPWynz1I": true
+    },
     "hoveredElementIds": {},
     "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
@@ -97,10 +130,7 @@
     "showHyperlinkPopup": false,
     "selectedLinearElement": null,
     "snapLines": [],
-    "originSnapOffset": {
-      "x": 0,
-      "y": 0
-    },
+    "originSnapOffset": null,
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
     "followedBy": {},
