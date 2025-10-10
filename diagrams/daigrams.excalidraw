@@ -141,6 +141,36 @@
       "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": null
+    },
+    {
+      "id": "3fEsNb0f706l1T-eGl8nn",
+      "type": "ellipse",
+      "x": 745.9842338773054,
+      "y": 657.8226223347709,
+      "width": 281.45490107833086,
+      "height": 354.2374373011263,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a4",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 38963906,
+      "version": 16,
+      "versionNonce": 1424632002,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1760065364478,
+      "link": null,
+      "locked": false
     }
   ],
   "appState": {
@@ -207,8 +237,11 @@
     },
     "resizingElement": null,
     "scrolledOutside": false,
-    "scrollX": 95.07441796121158,
-    "scrollY": -201.16346574331305,
+    "scrollX": 45.5371696394176,
+    "scrollY": -51.497736771084455,
+    "selectedElementIds": {
+      "3fEsNb0f706l1T-eGl8nn": true
+    },
     "selectedElementsAreBeingDragged": false,
     "selectionElement": null,
     "shouldCacheIgnoreZoom": false,
@@ -246,7 +279,7 @@
     "searchMatches": [],
     "offsetLeft": 0,
     "offsetTop": 0,
-    "width": 1470,
-    "height": 831
+    "width": 1024,
+    "height": 919
   }
 }
