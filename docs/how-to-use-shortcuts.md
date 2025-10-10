@@ -7,4 +7,6 @@
 
 Press Cmd+F (Mac) or Ctrl+F (Windows)
 Release the keys
-Within 2 seconds, press G to save or L to refresh
+**Within 2 seconds, press G to save or L to refresh
+**
+
