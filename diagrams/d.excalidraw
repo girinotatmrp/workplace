@@ -105,9 +105,9 @@
     "croppingElementId": null,
     "searchMatches": [],
     "offsetLeft": 320,
-    "offsetTop": 64,
+    "offsetTop": 129,
     "width": 757,
-    "height": 16777216
+    "height": 16777215
   },
   "files": {}
 }
