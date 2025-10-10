@@ -8,7 +8,7 @@
       "width": 363.96875,
       "height": 619.046875,
       "angle": 0,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#2f9e44",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
@@ -22,11 +22,11 @@
         "type": 3
       },
       "seed": 1011975017,
-      "version": 138,
-      "versionNonce": 1211407177,
+      "version": 139,
+      "versionNonce": 358043015,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1760063403128,
+      "updated": 1760063429694,
       "link": null,
       "locked": false
     },
@@ -74,7 +74,7 @@
     "currentItemOpacity": 100,
     "currentItemRoughness": 1,
     "currentItemStartArrowhead": null,
-    "currentItemStrokeColor": "#1e1e1e",
+    "currentItemStrokeColor": "#2f9e44",
     "currentItemRoundness": "round",
     "currentItemArrowType": "round",
     "currentItemStrokeStyle": "solid",
@@ -121,14 +121,14 @@
       "shown": false,
       "data": null
     },
-    "previousSelectedElementIds": {
-      "x5pflXurKfFwCyBisFiZ9": true
-    },
+    "previousSelectedElementIds": {},
     "resizingElement": null,
     "scrolledOutside": false,
     "scrollX": 612.5349695557364,
     "scrollY": 489.4105949318617,
-    "selectedElementIds": {},
+    "selectedElementIds": {
+      "ciCQS_oDcqshn9pGEVUmx": true
+    },
     "hoveredElementIds": {},
     "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
