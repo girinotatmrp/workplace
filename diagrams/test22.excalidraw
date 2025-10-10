@@ -391,9 +391,7 @@
       "shown": false,
       "data": null
     },
-    "previousSelectedElementIds": {
-      "FPunZisjog84r1dMbQiBI": true
-    },
+    "previousSelectedElementIds": {},
     "resizingElement": null,
     "scrolledOutside": false,
     "scrollX": 1157.0540132522583,
