@@ -96,11 +96,42 @@
       "updated": 1760101532153,
       "link": null,
       "locked": false
+    },
+    {
+      "id": "G0iJ-LcFMuX_gDx12dPtC",
+      "type": "rectangle",
+      "x": 1443.7329838928279,
+      "y": 176.71774955579977,
+      "width": 244.29569963989184,
+      "height": 596.1379928258382,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1540960741,
+      "version": 63,
+      "versionNonce": 498982987,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1760102776638,
+      "link": null,
+      "locked": false
     }
   ],
   "appState": {
     "showWelcomeScreen": true,
     "theme": "light",
+    "collaborators": {},
     "currentChartType": "bar",
     "currentItemBackgroundColor": "transparent",
     "currentItemEndArrowhead": "arrow",
@@ -164,6 +195,11 @@
     "scrolledOutside": false,
     "scrollX": 47.37525130919049,
     "scrollY": 92.08658014505195,
+    "selectedElementIds": {
+      "G0iJ-LcFMuX_gDx12dPtC": true
+    },
+    "hoveredElementIds": {},
+    "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
     "selectionElement": null,
     "shouldCacheIgnoreZoom": false,
@@ -196,12 +232,14 @@
     "originSnapOffset": null,
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
+    "followedBy": {},
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
     "offsetLeft": 0,
     "offsetTop": 0,
     "width": 1470,
-    "height": 919
-  }
+    "height": 831
+  },
+  "files": {}
 }
