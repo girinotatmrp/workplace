@@ -486,7 +486,9 @@
     "scrolledOutside": false,
     "scrollX": -9102.945986747742,
     "scrollY": 890.3162608146667,
-    "selectedElementIds": {},
+    "selectedElementIds": {
+      "TyXhL8HQF9O8FPeI6wuDf": true
+    },
     "hoveredElementIds": {},
     "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
