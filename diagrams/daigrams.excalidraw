@@ -23,7 +23,7 @@
       "version": 66,
       "versionNonce": 676162555,
       "isDeleted": false,
-      "boundElements": [],
+      "boundElements": null,
       "updated": 1760065145532,
       "link": null,
       "locked": false,
@@ -62,7 +62,7 @@
       "version": 30,
       "versionNonce": 1622241141,
       "isDeleted": false,
-      "boundElements": [],
+      "boundElements": null,
       "updated": 1760065150128,
       "link": null,
       "locked": false
@@ -92,7 +92,7 @@
       "version": 77,
       "versionNonce": 1851096373,
       "isDeleted": false,
-      "boundElements": [],
+      "boundElements": null,
       "updated": 1760065203595,
       "link": null,
       "locked": false
@@ -122,7 +122,7 @@
       "version": 143,
       "versionNonce": 652278171,
       "isDeleted": false,
-      "boundElements": [],
+      "boundElements": null,
       "updated": 1760065215795,
       "link": null,
       "locked": false,
@@ -251,8 +251,8 @@
     "searchMatches": [],
     "offsetLeft": 0,
     "offsetTop": 0,
-    "width": 1470,
-    "height": 831
+    "width": 1024,
+    "height": 919
   },
   "files": {}
 }
