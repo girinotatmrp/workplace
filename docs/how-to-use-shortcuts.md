@@ -1,12 +1,10 @@
-**Save**:
- Cmd+F then G (Mac) or Ctrl+F then G (Windows)
+**Final Keyboard Shortcuts:**
 
-**Refresh**: Cmd+F then L (Mac) or Ctrl+F then L (Windows)
+**Save**: Cmd+J then G (Mac) or Ctrl+J then G (Windows)
+**Refresh**: Cmd+J then L (Mac) or Ctrl+J then L (Windows)
 
 **How to use:**
-
-Press Cmd+F (Mac) or Ctrl+F (Windows)
+Press Cmd+J (Mac) or Ctrl+J (Windows)
 Release the keys
-**Within 2 seconds, press G to save or L to refresh
-**
+Within 2 seconds, press G to save or L to refresh
 
