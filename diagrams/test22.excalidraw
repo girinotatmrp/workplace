@@ -1,70 +1,8 @@
 {
-  "elements": [
-    {
-      "id": "Jhx5dZWK9M7FnR7LEWjuu",
-      "type": "diamond",
-      "x": 434.3171110153198,
-      "y": 321.262535572052,
-      "width": 831.8625183105469,
-      "height": 709.9826049804688,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "a0",
-      "roundness": {
-        "type": 2
-      },
-      "seed": 1031223369,
-      "version": 31,
-      "versionNonce": 1571695527,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1760067500097,
-      "link": null,
-      "locked": false
-    },
-    {
-      "id": "22r440a98BFdzTMmgwaG0",
-      "type": "rectangle",
-      "x": 474.5949125289917,
-      "y": 236.56925249099731,
-      "width": 587.4468994140625,
-      "height": 483.9120330810547,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "a1",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 374873799,
-      "version": 13,
-      "versionNonce": 852861545,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1760067503271,
-      "link": null,
-      "locked": false
-    }
-  ],
+  "elements": [],
   "appState": {
     "showWelcomeScreen": true,
     "theme": "light",
-    "collaborators": {},
     "currentChartType": "bar",
     "currentItemBackgroundColor": "transparent",
     "currentItemEndArrowhead": "arrow",
@@ -88,9 +26,9 @@
     "editingGroupId": null,
     "editingLinearElement": null,
     "activeTool": {
-      "type": "rectangle",
+      "type": "selection",
       "customType": null,
-      "locked": true,
+      "locked": false,
       "lastActiveTool": null
     },
     "penMode": false,
@@ -109,7 +47,7 @@
     "isLoading": false,
     "isResizing": false,
     "isRotating": false,
-    "lastPointerDownWith": "touch",
+    "lastPointerDownWith": "mouse",
     "multiElement": null,
     "name": "Untitled-2025-10-10-0908",
     "contextMenu": null,
@@ -121,14 +59,10 @@
       "shown": false,
       "data": null
     },
-    "previousSelectedElementIds": {},
     "resizingElement": null,
     "scrolledOutside": false,
-    "scrollX": -54.3209867477417,
-    "scrollY": -125.92592668533325,
-    "selectedElementIds": {},
-    "hoveredElementIds": {},
-    "selectedGroupIds": {},
+    "scrollX": 0,
+    "scrollY": 0,
     "selectedElementsAreBeingDragged": false,
     "selectionElement": null,
     "shouldCacheIgnoreZoom": false,
@@ -158,10 +92,12 @@
     "showHyperlinkPopup": false,
     "selectedLinearElement": null,
     "snapLines": [],
-    "originSnapOffset": null,
+    "originSnapOffset": {
+      "x": 0,
+      "y": 0
+    },
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
-    "followedBy": {},
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
@@ -169,6 +105,5 @@
     "offsetTop": 0,
     "width": 1455,
     "height": 918
-  },
-  "files": {}
+  }
 }
