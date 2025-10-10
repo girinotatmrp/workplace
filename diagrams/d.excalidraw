@@ -27,7 +27,7 @@
     "editingGroupId": null,
     "editingLinearElement": null,
     "activeTool": {
-      "type": "selection",
+      "type": "line",
       "customType": null,
       "locked": false,
       "lastActiveTool": null
@@ -50,7 +50,7 @@
     "isRotating": false,
     "lastPointerDownWith": "mouse",
     "multiElement": null,
-    "name": "Untitled-2025-10-10-0619",
+    "name": "Untitled-2025-10-10-0601",
     "contextMenu": null,
     "openMenu": null,
     "openPopup": null,
@@ -97,10 +97,7 @@
     "showHyperlinkPopup": false,
     "selectedLinearElement": null,
     "snapLines": [],
-    "originSnapOffset": {
-      "x": 0,
-      "y": 0
-    },
+    "originSnapOffset": null,
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
     "followedBy": {},
@@ -109,7 +106,7 @@
     "searchMatches": [],
     "offsetLeft": 320,
     "offsetTop": 129,
-    "width": 1150,
+    "width": 485,
     "height": 16777215
   },
   "files": {}
