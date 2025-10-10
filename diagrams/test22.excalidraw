@@ -763,14 +763,11 @@
       "shown": false,
       "data": null
     },
-    "previousSelectedElementIds": {
-      "KlM_XjIabbdf5RgXTus56": true,
-      "1QRTB52q8eNUP2s0Ip_Vr": true
-    },
+    "previousSelectedElementIds": {},
     "resizingElement": null,
     "scrolledOutside": false,
-    "scrollX": -8412.945986747742,
-    "scrollY": 580.3162608146667,
+    "scrollX": -9282.945986747742,
+    "scrollY": 1060.3162608146667,
     "selectedElementIds": {},
     "hoveredElementIds": {},
     "selectedGroupIds": {},
