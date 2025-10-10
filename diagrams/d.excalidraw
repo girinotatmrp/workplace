@@ -17,7 +17,7 @@
     "currentItemRoundness": "round",
     "currentItemArrowType": "round",
     "currentItemStrokeStyle": "solid",
-    "currentItemStrokeWidth": 2,
+    "currentItemStrokeWidth": 1,
     "currentItemTextAlign": "left",
     "currentHoveredFontFamily": null,
     "cursorButton": "up",
