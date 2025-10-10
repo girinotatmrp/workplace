@@ -396,7 +396,7 @@
       "x": 15776.188174247742,
       "y": 2643.9806141853333,
       "width": 1297.5,
-      "height": 795.78125,
+      "height": 825.9765625000002,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -412,11 +412,11 @@
         "type": 3
       },
       "seed": 337587751,
-      "version": 96,
-      "versionNonce": 1907120231,
+      "version": 105,
+      "versionNonce": 571363497,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1760094370864,
+      "updated": 1760094418964,
       "link": null,
       "locked": false
     }
@@ -487,7 +487,7 @@
     "scrollX": -9102.945986747742,
     "scrollY": 890.3162608146667,
     "selectedElementIds": {
-      "TyXhL8HQF9O8FPeI6wuDf": true
+      "yC7qf04h9xymetxLO8RDf": true
     },
     "hoveredElementIds": {},
     "selectedGroupIds": {},
