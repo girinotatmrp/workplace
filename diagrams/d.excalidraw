@@ -27,7 +27,7 @@
     "editingGroupId": null,
     "editingLinearElement": null,
     "activeTool": {
-      "type": "line",
+      "type": "diamond",
       "customType": null,
       "locked": false,
       "lastActiveTool": null
