@@ -92,7 +92,7 @@
       "version": 162,
       "versionNonce": 452702059,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1760101532153,
       "link": null,
       "locked": false
@@ -101,6 +101,7 @@
   "appState": {
     "showWelcomeScreen": true,
     "theme": "light",
+    "collaborators": {},
     "currentChartType": "bar",
     "currentItemBackgroundColor": "transparent",
     "currentItemEndArrowhead": "arrow",
@@ -140,7 +141,7 @@
     "gridSize": 20,
     "gridStep": 5,
     "gridModeEnabled": false,
-    "isBindingEnabled": false,
+    "isBindingEnabled": true,
     "defaultSidebarDockedPreference": false,
     "isLoading": false,
     "isResizing": false,
@@ -162,8 +163,11 @@
     },
     "resizingElement": null,
     "scrolledOutside": false,
-    "scrollX": -31.545620333649282,
-    "scrollY": 173.55328635701562,
+    "scrollX": 47.37525130919049,
+    "scrollY": 92.08658014505195,
+    "selectedElementIds": {},
+    "hoveredElementIds": {},
+    "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
     "selectionElement": null,
     "shouldCacheIgnoreZoom": false,
@@ -196,12 +200,14 @@
     "originSnapOffset": null,
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
+    "followedBy": {},
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
     "offsetLeft": 0,
     "offsetTop": 0,
-    "width": 1101,
-    "height": 919
-  }
+    "width": 1470,
+    "height": 831
+  },
+  "files": {}
 }
