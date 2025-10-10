@@ -43,7 +43,7 @@
     "gridSize": 20,
     "gridStep": 5,
     "gridModeEnabled": false,
-    "isBindingEnabled": false,
+    "isBindingEnabled": true,
     "defaultSidebarDockedPreference": false,
     "isLoading": false,
     "isResizing": false,
