@@ -1,8 +1,40 @@
 {
-  "elements": [],
+  "elements": [
+    {
+      "id": "LMAwo2SAVE8n2Y5m6ouls",
+      "type": "rectangle",
+      "x": 386.9164733886719,
+      "y": 107.4508056640625,
+      "width": 367.2549743652344,
+      "height": 746.0648193359375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1521066715,
+      "version": 65,
+      "versionNonce": 345192533,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1760098998004,
+      "link": null,
+      "locked": false
+    }
+  ],
   "appState": {
     "showWelcomeScreen": true,
     "theme": "light",
+    "collaborators": {},
     "currentChartType": "bar",
     "currentItemBackgroundColor": "transparent",
     "currentItemEndArrowhead": "arrow",
@@ -59,10 +91,16 @@
       "shown": false,
       "data": null
     },
+    "previousSelectedElementIds": {},
     "resizingElement": null,
     "scrolledOutside": false,
     "scrollX": 0,
     "scrollY": 0,
+    "selectedElementIds": {
+      "LMAwo2SAVE8n2Y5m6ouls": true
+    },
+    "hoveredElementIds": {},
+    "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
     "selectionElement": null,
     "shouldCacheIgnoreZoom": false,
@@ -95,6 +133,7 @@
     "originSnapOffset": null,
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
+    "followedBy": {},
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
@@ -102,5 +141,6 @@
     "offsetTop": 0,
     "width": 1287,
     "height": 918
-  }
+  },
+  "files": {}
 }
