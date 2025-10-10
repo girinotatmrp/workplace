@@ -104,10 +104,10 @@
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
-    "offsetLeft": 0,
-    "offsetTop": 0,
-    "width": 1470,
-    "height": 16777216
+    "offsetLeft": 320,
+    "offsetTop": 64,
+    "width": 1150,
+    "height": 10095.96875
   },
   "files": {}
 }
