@@ -1,8 +1,40 @@
 {
-  "elements": [],
+  "elements": [
+    {
+      "id": "PrXtyrA480OMptTMI0RQ0",
+      "type": "ellipse",
+      "x": 416.6377258300781,
+      "y": 208.79147338867188,
+      "width": 883.4201354980469,
+      "height": 734.3942565917969,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 973585479,
+      "version": 14,
+      "versionNonce": 1762304551,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1760098653389,
+      "link": null,
+      "locked": false
+    }
+  ],
   "appState": {
     "showWelcomeScreen": true,
     "theme": "light",
+    "collaborators": {},
     "currentChartType": "bar",
     "currentItemBackgroundColor": "transparent",
     "currentItemEndArrowhead": "arrow",
@@ -47,7 +79,7 @@
     "isLoading": false,
     "isResizing": false,
     "isRotating": false,
-    "lastPointerDownWith": "mouse",
+    "lastPointerDownWith": "touch",
     "multiElement": null,
     "name": "Untitled-2025-10-10-1747",
     "contextMenu": null,
@@ -59,10 +91,16 @@
       "shown": false,
       "data": null
     },
+    "previousSelectedElementIds": {},
     "resizingElement": null,
     "scrolledOutside": false,
     "scrollX": 0,
     "scrollY": 0,
+    "selectedElementIds": {
+      "PrXtyrA480OMptTMI0RQ0": true
+    },
+    "hoveredElementIds": {},
+    "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
     "selectionElement": null,
     "shouldCacheIgnoreZoom": false,
@@ -92,12 +130,10 @@
     "showHyperlinkPopup": false,
     "selectedLinearElement": null,
     "snapLines": [],
-    "originSnapOffset": {
-      "x": 0,
-      "y": 0
-    },
+    "originSnapOffset": null,
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
+    "followedBy": {},
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
@@ -105,5 +141,6 @@
     "offsetTop": 0,
     "width": 1287,
     "height": 918
-  }
+  },
+  "files": {}
 }
