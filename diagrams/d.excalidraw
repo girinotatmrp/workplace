@@ -43,7 +43,7 @@
     "gridSize": 20,
     "gridStep": 5,
     "gridModeEnabled": false,
-    "isBindingEnabled": true,
+    "isBindingEnabled": false,
     "defaultSidebarDockedPreference": false,
     "isLoading": false,
     "isResizing": false,
@@ -104,9 +104,9 @@
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
-    "offsetLeft": 320,
-    "offsetTop": 64,
-    "width": 1150,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "width": 1470,
     "height": 16777216
   },
   "files": {}
