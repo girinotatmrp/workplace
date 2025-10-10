@@ -675,7 +675,7 @@
     "editingGroupId": null,
     "editingLinearElement": null,
     "activeTool": {
-      "type": "eraser",
+      "type": "selection",
       "customType": null,
       "locked": false,
       "lastActiveTool": null
