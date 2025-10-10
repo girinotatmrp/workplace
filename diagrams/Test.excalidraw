@@ -94,6 +94,7 @@
   "appState": {
     "showWelcomeScreen": true,
     "theme": "light",
+    "collaborators": {},
     "currentChartType": "bar",
     "currentItemBackgroundColor": "transparent",
     "currentItemEndArrowhead": "arrow",
@@ -157,6 +158,9 @@
     "scrolledOutside": false,
     "scrollX": 612.5349695557364,
     "scrollY": 489.4105949318617,
+    "selectedElementIds": {},
+    "hoveredElementIds": {},
+    "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
     "selectionElement": null,
     "shouldCacheIgnoreZoom": false,
@@ -189,6 +193,7 @@
     "originSnapOffset": null,
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
+    "followedBy": {},
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
@@ -196,5 +201,6 @@
     "offsetTop": 0,
     "width": 1470,
     "height": 831
-  }
+  },
+  "files": {}
 }
