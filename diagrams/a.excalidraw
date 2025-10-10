@@ -55,7 +55,7 @@
       "version": 41,
       "versionNonce": 739756303,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1760063241397,
       "link": null,
       "locked": false
@@ -122,15 +122,13 @@
       "data": null
     },
     "previousSelectedElementIds": {
-      "5VPD4d2S6DthikXceVEoC": true
+      "-X6UyR-ho9_pjtf1fzdkF": true
     },
     "resizingElement": null,
     "scrolledOutside": false,
     "scrollX": 0,
     "scrollY": 0,
-    "selectedElementIds": {
-      "-X6UyR-ho9_pjtf1fzdkF": true
-    },
+    "selectedElementIds": {},
     "hoveredElementIds": {},
     "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
