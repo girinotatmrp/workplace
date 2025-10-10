@@ -246,11 +246,42 @@
       "updated": 1760099886788,
       "link": null,
       "locked": false
+    },
+    {
+      "id": "MAPbmWxETObPDnRBLSUEt",
+      "type": "rectangle",
+      "x": 408.728759765625,
+      "y": 797.3283081054688,
+      "width": 318.52337646484375,
+      "height": 41.9222412109375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1168191067,
+      "version": 193,
+      "versionNonce": 2042035413,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1760099919955,
+      "link": null,
+      "locked": false
     }
   ],
   "appState": {
     "showWelcomeScreen": true,
     "theme": "light",
+    "collaborators": {},
     "currentChartType": "bar",
     "currentItemBackgroundColor": "transparent",
     "currentItemEndArrowhead": "arrow",
@@ -307,13 +338,18 @@
       "shown": false,
       "data": null
     },
+    "previousSelectedElementIds": {
+      "FPW2xqux4Hm9NgalS5q84": true
+    },
     "resizingElement": null,
     "scrolledOutside": false,
     "scrollX": 0,
     "scrollY": 0,
     "selectedElementIds": {
-      "FPW2xqux4Hm9NgalS5q84": true
+      "MAPbmWxETObPDnRBLSUEt": true
     },
+    "hoveredElementIds": {},
+    "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
     "selectionElement": null,
     "shouldCacheIgnoreZoom": false,
@@ -346,6 +382,7 @@
     "originSnapOffset": null,
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
+    "followedBy": {},
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
@@ -353,5 +390,6 @@
     "offsetTop": 0,
     "width": 1287,
     "height": 918
-  }
+  },
+  "files": {}
 }
