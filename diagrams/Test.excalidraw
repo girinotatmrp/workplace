@@ -646,6 +646,36 @@
         1671.2692364604914,
         1424.9408108907962
       ]
+    },
+    {
+      "id": "sXN06u8z3Qbag-R-Xso3u",
+      "type": "rectangle",
+      "x": 173.20045512612205,
+      "y": -205.1364013834746,
+      "width": 856.827093814738,
+      "height": 1560.391387984611,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 425021687,
+      "version": 28,
+      "versionNonce": 277316791,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1760063832396,
+      "link": null,
+      "locked": false
     }
   ],
   "appState": {
@@ -713,7 +743,9 @@
     "scrolledOutside": false,
     "scrollX": 612.5349695557364,
     "scrollY": 489.4105949318617,
-    "selectedElementIds": {},
+    "selectedElementIds": {
+      "sXN06u8z3Qbag-R-Xso3u": true
+    },
     "hoveredElementIds": {},
     "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
