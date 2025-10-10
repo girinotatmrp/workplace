@@ -310,8 +310,8 @@
     {
       "id": "S_UH4n3iu1B7yhuNYiU0B",
       "type": "diamond",
-      "x": 504.4656677246094,
-      "y": 592.2646484375,
+      "x": 426.84222412109375,
+      "y": 593.4268798828125,
       "width": 151.81808471679688,
       "height": 136.12554931640625,
       "angle": 0,
@@ -329,11 +329,11 @@
         "type": 2
       },
       "seed": 346334459,
-      "version": 45,
-      "versionNonce": 736822901,
+      "version": 83,
+      "versionNonce": 2133977138,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1760100122888,
+      "updated": 1760101013371,
       "link": null,
       "locked": false
     }
@@ -341,6 +341,7 @@
   "appState": {
     "showWelcomeScreen": true,
     "theme": "light",
+    "collaborators": {},
     "currentChartType": "bar",
     "currentItemBackgroundColor": "transparent",
     "currentItemEndArrowhead": "arrow",
@@ -380,7 +381,7 @@
     "gridSize": 20,
     "gridStep": 5,
     "gridModeEnabled": false,
-    "isBindingEnabled": true,
+    "isBindingEnabled": false,
     "defaultSidebarDockedPreference": false,
     "isLoading": false,
     "isResizing": false,
@@ -397,10 +398,16 @@
       "shown": false,
       "data": null
     },
+    "previousSelectedElementIds": {
+      "S_UH4n3iu1B7yhuNYiU0B": true
+    },
     "resizingElement": null,
     "scrolledOutside": false,
     "scrollX": 0,
     "scrollY": 0,
+    "selectedElementIds": {},
+    "hoveredElementIds": {},
+    "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
     "selectionElement": null,
     "shouldCacheIgnoreZoom": false,
@@ -433,6 +440,7 @@
     "originSnapOffset": null,
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
+    "followedBy": {},
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
@@ -440,5 +448,6 @@
     "offsetTop": 0,
     "width": 1287,
     "height": 918
-  }
+  },
+  "files": {}
 }
