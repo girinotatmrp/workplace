@@ -42,3 +42,22 @@ Code & Callouts
 ```javascript
 console.log("Hello, Javascript!");
 ```
+
+> [!NOTE]
+> This is a Note
+
+> [!TIP]
+> This is a Tip
+
+> [!WARNING]
+> This is a Warning
+
+> [!IMPORTANT]
+> This is so Important
+
+> [!CAUTION]
+> Caustion - Be Careful
+
+---
+
+Divider there
