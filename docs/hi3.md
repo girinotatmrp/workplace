@@ -9,3 +9,5 @@ $$
 \text{Line 2: This is also red} \\
 \text{Line 3: Still red!}
 $$
+> [!TIP]
+> Helpful advice for doing things better.
