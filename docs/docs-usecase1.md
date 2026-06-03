@@ -30,7 +30,7 @@ Media & Data
 
 *Caption for image *
 
-[Disply Label for Image](https://picsum.photos/200)
+[Display Label for Image](https://picsum.photos/200)
 
 | Header 1 | Header 2 | Header 3 |
 | --- | --- | --- |
