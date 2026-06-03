@@ -36,3 +36,9 @@ Media & Data
 | --- | --- | --- |
 | Row 1 | Row 1 | Row 1 |
 | Row 2 |  | Table |
+
+Code & Callouts
+
+```javascript
+console.log("Hello, Javascript!");
+```
