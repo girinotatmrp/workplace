@@ -25,7 +25,7 @@
       "version": 116,
       "versionNonce": 1980418756,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780641205774,
       "link": null,
       "locked": false
@@ -34,6 +34,7 @@
   "appState": {
     "showWelcomeScreen": true,
     "theme": "light",
+    "collaborators": {},
     "currentChartType": "bar",
     "currentItemBackgroundColor": "transparent",
     "currentItemEndArrowhead": "arrow",
@@ -100,6 +101,8 @@
     "selectedElementIds": {
       "wlCtWwGoofqbz8evkhXID": true
     },
+    "hoveredElementIds": {},
+    "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
     "selectionElement": null,
     "shouldCacheIgnoreZoom": false,
@@ -132,6 +135,7 @@
     "originSnapOffset": null,
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
+    "followedBy": {},
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
@@ -139,5 +143,6 @@
     "offsetTop": 0,
     "width": 1470,
     "height": 835
-  }
+  },
+  "files": {}
 }
