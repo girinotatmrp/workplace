@@ -1,32 +1,30 @@
 {
   "elements": [
     {
-      "id": "wlCtWwGoofqbz8evkhXID",
+      "id": "ijBexJdeORESnieryU4i5",
       "type": "rectangle",
-      "x": 163.32078497169266,
-      "y": 36.411314566747365,
-      "width": 1594.2285168487756,
-      "height": 943.6694797028082,
+      "x": 177.7112048964134,
+      "y": 10.691387807851413,
+      "width": 1585.9540253920609,
+      "height": 970.9346072896865,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
-      "roughness": 1,
+      "roughness": 0,
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a0",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 1319731012,
-      "version": 116,
-      "versionNonce": 1980418756,
+      "index": "a2",
+      "roundness": null,
+      "seed": 1676286124,
+      "version": 178,
+      "versionNonce": 2110914348,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1780641205774,
+      "updated": 1780643231470,
       "link": null,
       "locked": false
     }
@@ -34,6 +32,7 @@
   "appState": {
     "showWelcomeScreen": true,
     "theme": "light",
+    "collaborators": {},
     "currentChartType": "bar",
     "currentItemBackgroundColor": "transparent",
     "currentItemEndArrowhead": "arrow",
@@ -41,10 +40,10 @@
     "currentItemFontFamily": 5,
     "currentItemFontSize": 20,
     "currentItemOpacity": 100,
-    "currentItemRoughness": 1,
+    "currentItemRoughness": 0,
     "currentItemStartArrowhead": null,
     "currentItemStrokeColor": "#1e1e1e",
-    "currentItemRoundness": "round",
+    "currentItemRoundness": "sharp",
     "currentItemArrowType": "round",
     "currentItemStrokeStyle": "solid",
     "currentItemStrokeWidth": 2,
@@ -90,16 +89,16 @@
       "shown": false,
       "data": null
     },
-    "previousSelectedElementIds": {
-      "wlCtWwGoofqbz8evkhXID": true
-    },
+    "previousSelectedElementIds": {},
     "resizingElement": null,
     "scrolledOutside": false,
-    "scrollX": 235.68309600660675,
-    "scrollY": 164.5355656279581,
+    "scrollX": 274.9382742930578,
+    "scrollY": 170.5748238258736,
     "selectedElementIds": {
-      "wlCtWwGoofqbz8evkhXID": true
+      "ijBexJdeORESnieryU4i5": true
     },
+    "hoveredElementIds": {},
+    "selectedGroupIds": {},
     "selectedElementsAreBeingDragged": false,
     "selectionElement": null,
     "shouldCacheIgnoreZoom": false,
@@ -132,6 +131,7 @@
     "originSnapOffset": null,
     "objectsSnapModeEnabled": false,
     "userToFollow": null,
+    "followedBy": {},
     "isCropping": false,
     "croppingElementId": null,
     "searchMatches": [],
@@ -139,5 +139,6 @@
     "offsetTop": 0,
     "width": 1470,
     "height": 835
-  }
+  },
+  "files": {}
 }
